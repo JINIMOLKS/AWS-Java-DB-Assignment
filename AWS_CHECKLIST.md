@@ -11,10 +11,13 @@
 - [x] Tested CRUD operations
 
 ## AWS
-- [ ] Created AWS resource for the Java application
-- [ ] Configured the application on AWS
-- [ ] Connected application with database
-- [ ] Tested the application on AWS
+- [x] Created AWS EC2 instance for the Java application
+- [x] Installed Java on EC2
+- [x] Installed MariaDB on EC2
+- [x] Created student_db database and students table
+- [x] Configured the Java application on AWS
+- [x] Connected Java application with the AWS database
+- [x] Tested CRUD operations on AWS
 
 ## GitHub
 - [ ] Created GitHub repository
