@@ -4,7 +4,7 @@ import java.util.Scanner;
 public class StudentManagement {
 
     static final String URL = "jdbc:mysql://localhost:3306/student_db";
-    static final String USER = "root";
+  static final String USER = "studentapp";
 
     public static void main(String[] args) {
 
